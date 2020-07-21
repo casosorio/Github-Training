@@ -1,6 +1,6 @@
 ---
 title: "Github Training"
-author: "Casey"
+author: "Casey, Noel, Renata, & Kulas"
 date: "7/9/2020"
 output: ioslides_presentation
 ---
@@ -11,11 +11,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Installing Git
 
-Git is platform tool, which helps connect the website Github <https://github.com/>, and R studio. To install Git on you computer go to website <https://git-scm.com/downloads>. Here is what the website should look like 
+Git is platform tool, which helps connect the website Github <https://github.com/>, and R studio. To install Git on you computer go to website <https://git-scm.com/downloads>. Here is what the website should look like:  
 
 ![Git Page](Image/Gitpage.png){width=50%}
 
-
+Note that there is a decent YouTube tutorial [here](https://www.youtube.com/watch?v=Pg8LeOfvQME)
 
 ## Part 1: Connect Git to R 
 
@@ -51,6 +51,14 @@ You are now connect to Github with Rstudio.
 
 ![](Image/Repo.png){width=45%}
 
+<<<<<<< HEAD
 ## Learning Github
 
 - Github is platform, where people can post files and collaborate on projects together. 
+=======
+## Options
+
+You can set up notifications via your *global* options (associated with your account - not specific to any one repository):
+
+![Notifications](Image/notifications.png){width=90%}
+>>>>>>> 6a9f4ea26ce99d6ac32ee01e0085c681dbf2b2f3
