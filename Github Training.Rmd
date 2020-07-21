@@ -51,3 +51,6 @@ You are now connect to Github with Rstudio.
 
 ![](Image/Repo.png){width=45%}
 
+## Learning Github
+
+- Github is platform, where people can post files and collaborate on projects together. 
