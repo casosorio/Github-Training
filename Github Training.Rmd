@@ -51,14 +51,16 @@ You are now connect to Github with Rstudio.
 
 ![](Image/Repo.png){width=45%}
 
-<<<<<<< HEAD
+---
+
 ## Learning Github
 
 - Github is platform, where people can post files and collaborate on projects together. 
-=======
+
+---
+
 ## Options
 
 You can set up notifications via your *global* options (associated with your account - not specific to any one repository):
 
-![Notifications](Image/notifications.png){width=90%}
->>>>>>> 6a9f4ea26ce99d6ac32ee01e0085c681dbf2b2f3
+![Notifications](Image/notifications.png)
