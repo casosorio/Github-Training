@@ -53,9 +53,11 @@ You are now connect to Github with Rstudio.
 
 ---
 
-## Learning Github
+## Problem Solving
 
-- Github is platform, where people can post files and collaborate on projects together. 
+[This error](https://codewithhugo.com/fix-git-failed-to-push-updates-were-rejected/) was very common, so with the current presentation, we had to bypass it via this command (in the R Studio `terminal` pane)
+
+![](Image/hardboot.png)
 
 ---
 
